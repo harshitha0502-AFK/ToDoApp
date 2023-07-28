@@ -8,4 +8,6 @@
         align-items: center;
         height: 650px;
         flex-direction: column;
+        background-size: cover;
+        padding: 0 0 150px 0;
 }
