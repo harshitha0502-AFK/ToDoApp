@@ -7,7 +7,7 @@ function App() {
   return (
  
   <div className="App">
-      <BrowserRouter basename='/ToDolist'>
+      <BrowserRouter basename='/to-do-app'>
                    <Routes>
                       <Route exact path='/' index element={ <TodoList/>}/>
                    </Routes>
